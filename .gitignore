@@ -2,4 +2,6 @@
 *.log
 *.aux
 .*.swp
+__pychache__/**
+**/__pycache__
 
